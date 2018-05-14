@@ -1,0 +1,11 @@
+{
+  "name": "threejstest",
+  "version": "1.0.0",
+  "description": "Three.js drawing library test",
+  "main": "index.html",
+  "author": "Tjalling Hoekstra",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.92.0"
+  }
+}
